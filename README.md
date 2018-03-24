@@ -1,2 +1,2 @@
 # Institute
-Desarrollo de LandingPage. Presentación simple.
+Desarrollo de LandingPage. Presentación estructura **entorno** de la Inst.
